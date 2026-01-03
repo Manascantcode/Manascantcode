@@ -1,7 +1,9 @@
 ![Banner](Gititdone_readme_repo.gif)
 
 # 💫 About Me:
-💻 Your Description goes here!
+I’m a second-year Computer Science student with a strong curiosity for technology and problem-solving. Currently, I’m exploring multiple domains including software development, web technologies, data structures, and emerging tech, to identify where my strengths and interests align best.
+
+I enjoy learning by building projects, experimenting with new tools, and continuously improving my technical and logical skills. I believe in staying adaptable, asking the right questions, and growing through hands-on experience as I work toward shaping my career in tech.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manas__dd/)
